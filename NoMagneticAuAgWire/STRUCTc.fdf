@@ -1,0 +1,31 @@
+NumberOfAtoms         10
+NumberOfSpecies       3
+LatticeConstant 	2.4000 Ang
+
+%block ChemicalSpeciesLabel
+1  29 Cu
+2  47 Ag
+3  79 Au
+%endblock ChemicalSpeciesLabel
+
+%block LatticeVectors
+5.00000  0.00000  0.00000
+0.00000  5.00000  0.00000
+0.00000  0.00000  10.00000
+%endblock LatticeVectors
+
+AtomicCoordinatesFormat   ScaledCartesian
+
+%block AtomicCoordinatesAndAtomicSpecies
+2.5 2.5 0.5000000000000 1
+2.5 2.5 1.5000000000000 1
+2.5 2.5 2.500000000000 1
+2.5 2.5 3.500000000000 2
+2.5 2.5 4.500000000000 3
+2.5 2.5 5.500000000000 2
+2.5 2.5 6.500000000000 3
+2.5 2.5 7.500000000000 1
+2.5 2.5 8.500000000000 1
+2.5 2.5 9.500000000000 1
+%endblock AtomicCoordinatesAndAtomicSpecies
+

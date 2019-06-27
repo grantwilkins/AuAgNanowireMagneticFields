@@ -1,0 +1,6611 @@
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc0.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc1.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc2.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc3.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc4.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc5.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc6.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc7.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc8.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc9.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc10.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc11.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc12.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc13.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc14.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc15.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc16.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc17.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc18.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc19.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc20.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc21.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc22.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc23.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc24.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc25.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc26.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc27.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc28.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc29.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc30.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc31.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc32.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc33.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc34.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc35.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc36.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc37.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc38.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc39.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc40.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc41.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc42.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc43.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc44.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc45.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc46.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc47.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc48.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc49.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc50.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc51.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc52.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc53.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc54.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc55.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc56.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc57.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc58.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc59.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc60.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc61.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc62.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc63.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc64.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc65.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc66.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc67.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc68.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc69.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc70.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc71.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc72.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc73.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc74.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc75.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc76.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc77.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc78.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc79.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc80.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc81.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc82.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc83.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc84.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc85.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc86.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc87.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc88.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc89.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc90.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc91.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc92.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc93.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc94.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc95.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc96.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc97.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc98.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc99.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc100.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc101.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc102.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc103.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc104.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc105.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc106.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc107.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc108.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc109.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc110.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc111.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc112.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc113.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc114.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc115.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc116.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc117.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc118.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc119.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc120.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc121.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc122.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc123.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc124.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc125.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc126.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc127.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc128.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc129.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc130.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc131.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc132.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc133.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc134.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc135.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc136.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc137.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc138.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc139.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc140.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc141.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc142.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc143.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc144.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc145.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc146.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc147.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc148.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc149.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc150.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc151.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc152.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc153.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc154.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc155.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc156.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc157.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc158.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc159.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc160.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc161.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc162.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc163.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc164.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc165.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc166.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc167.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc168.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc169.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc170.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc171.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc172.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc173.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc174.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc175.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc176.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc177.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc178.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc179.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc180.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc181.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc182.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc183.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc184.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc185.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc186.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc187.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc188.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc189.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc190.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc191.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc192.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc193.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc194.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc195.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc196.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc197.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc198.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc199.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc200.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc201.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc202.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc203.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc204.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc205.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc206.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc207.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc208.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc209.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc210.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc211.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc212.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc213.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc214.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc215.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc216.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc217.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc218.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc219.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc220.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc221.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc222.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc223.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc224.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc225.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc226.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc227.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc228.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc229.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc230.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc231.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc232.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc233.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc234.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc235.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc236.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc237.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc238.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc239.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc240.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc241.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc242.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc243.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc244.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc245.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc246.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc247.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc248.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc249.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc250.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc251.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc252.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc253.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc254.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc255.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc256.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc257.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc258.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc259.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc260.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc261.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc262.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc263.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc264.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc265.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc266.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc267.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc268.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc269.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc270.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc271.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc272.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc273.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc274.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc275.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc276.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc277.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc278.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc279.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc280.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc281.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc282.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc283.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc284.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc285.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc286.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc287.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc288.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc289.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc290.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc291.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc292.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc293.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc294.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc295.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc296.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc297.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc298.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc299.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc300.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc301.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc302.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc303.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc304.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc305.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc306.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc307.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc308.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc309.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc310.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc311.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc312.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc313.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc314.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc315.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc316.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc317.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc318.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc319.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc320.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc321.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc322.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc323.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc324.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc325.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc326.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc327.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc328.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc329.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc330.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc331.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc332.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc333.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc334.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc335.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc336.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc337.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc338.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc339.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc340.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc341.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc342.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc343.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc344.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc345.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc346.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc347.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc348.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc349.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc350.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc351.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc352.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc353.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc354.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc355.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc356.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc357.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc358.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc359.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc360.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc361.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc362.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc363.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc364.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc365.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc366.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc367.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc368.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc369.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc370.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc371.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc372.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc373.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc374.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc375.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc376.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc377.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc378.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc379.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc380.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc381.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc382.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc383.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc384.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc385.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc386.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc387.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc388.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc389.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc390.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc391.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc392.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc393.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc394.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc395.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc396.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc397.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc398.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc399.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc400.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc401.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc402.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc403.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc404.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc405.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc406.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc407.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc408.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc409.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc410.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc411.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc412.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc413.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc414.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc415.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc416.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc417.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc418.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc419.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc420.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc421.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc422.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc423.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc424.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc425.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc426.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc427.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc428.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc429.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc430.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc431.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc432.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc433.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc434.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc435.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc436.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc437.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc438.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc439.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc440.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc441.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc442.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc443.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc444.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc445.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc446.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc447.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc448.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc449.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc450.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc451.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc452.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc453.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc454.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc455.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc456.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc457.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc458.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc459.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc460.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc461.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc462.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc463.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc464.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc465.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc466.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc467.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc468.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc469.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc470.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc471.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc472.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc473.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc474.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc475.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc476.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc477.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc478.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc479.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc480.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc481.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc482.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc483.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc484.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc485.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc486.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc487.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc488.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc489.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc490.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc491.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc492.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc493.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc494.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc495.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc496.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc497.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc498.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc499.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc500.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc501.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc502.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc503.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc504.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc505.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc506.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc507.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc508.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc509.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc510.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc511.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc512.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc513.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc514.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc515.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc516.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc517.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc518.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc519.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc520.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc521.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc522.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc523.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc524.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc525.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc526.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc527.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc528.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc529.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc530.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc531.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc532.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc533.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc534.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc535.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc536.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc537.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc538.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc539.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc540.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc541.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc542.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc543.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc544.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc545.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc546.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc547.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc548.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc549.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc550.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc551.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc552.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc553.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc554.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc555.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc556.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc557.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc558.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc559.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc560.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc561.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc562.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc563.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc564.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc565.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc566.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc567.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc568.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc569.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc570.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc571.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc572.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc573.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc574.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc575.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc576.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc577.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc578.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc579.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc580.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc581.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc582.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc583.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc584.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc585.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc586.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc587.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc588.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc589.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc590.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc591.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc592.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc593.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc594.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc595.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc596.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc597.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc598.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc599.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
+cp VOLTAGE.fdf vold
+rm *.TSGF?
+python incVOLTS.py
+cp VOLTAGEnew.fdf VOLTAGE.fdf
+transiesta < RUN.fdf > RUN.out
+tbtrans < RUN.fdf > RUNtb.out
+tail RUNtb.out | grep 'Voltage' >> IVDATA
+cp AuAgStruc.AVTRANS AuAgStruc600.AVTRANS
+grep 'timer: Elapsed wall time (sec)' RUN.out >> TIMES
+  
+  
