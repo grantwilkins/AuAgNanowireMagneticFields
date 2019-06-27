@@ -1,0 +1,13 @@
+#------------------------------------
+# ELECTRODES
+# -----------------------------------
+# LEFT ELECTRODE
+TS.HSFileLeft Cu1D_Elec.TSHS
+TS.NumUsedAtomsLeft  3
+
+
+# RIGHT ELECTRODE
+TS.HSFileRight  Cu1D_Elec.TSHS
+TS.NumUsedAtomsRight  3
+
+

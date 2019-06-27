@@ -1,0 +1,720 @@
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
+cd Cu_Electrodes
+cp STRUCT2.fdf strucold
+python incLCElec.py
+cp STRUCTnew.fdf STRUCT.fdf
+transiesta < RUN2.fdf > RUN2.out
+cp *.TSHS ../
+cd ../
+cp STRUCTc.fdf struc
+python incLC.py
+cp STRUCNEW.fdf STRUCTc.fdf
+siesta < RUN.fdf > RUN.out
+grep 'Total = ' RUN.out >> ELCDATA
